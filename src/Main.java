@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Some changes");
         System.out.println("Some changes");
         System.out.println("Hotfix");
+        System.out.println("Changes feature 2");
     }
 }
