@@ -3,8 +3,5 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Some changes");
         System.out.println("Some changes");
-        System.out.println("Changes feature 1");
-        System.out.println("Changes feature 1");
-        System.out.println("Changes feature 1");
     }
 }
