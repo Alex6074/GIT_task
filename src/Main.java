@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Hotfix");
         System.out.println("Changes feature 2");
         System.out.println("changes in release");
+        System.out.println("changes feture 3");
     }
 }
